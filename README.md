@@ -53,6 +53,7 @@ Den vil ikke fremkomme mere.
 [putty07]: figures/putty07.png 
 [putty08]: figures/putty08.png 
 [putty09]: figures/putty09.png 
+[ssh01]: figures/secure_shell_app01.png 
 
 
 

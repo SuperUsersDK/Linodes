@@ -1,7 +1,17 @@
-## Linode - Guide til at bruge putty
+### Linode - Guide til kursister
 
-Denne guide beskriver hvordan man forbinder til den virtuelle
-Linux maskiner, som SuperUsers stiller til rådighed til kurset.
+Denne guide beskriver hvordan man forbinder til de virtuelle
+Linux maskiner, som SuperUsers stiller til rådighed for kursister.
+
+Der er to metoder:
+1. [En udvidelse til Google Chrome browseren](#metode-1)
+2. [Programmet putty](#metode-2)
+
+## Metode 1
+
+1. Installere 
+
+## Metode 2
 
 1. Download og installere putty fra: https://putty.org/
 2. Start putty
@@ -43,5 +53,7 @@ Den vil ikke fremkomme mere.
 [putty07]: figures/putty07.png 
 [putty08]: figures/putty08.png 
 [putty09]: figures/putty09.png 
+
+
 
 

@@ -16,7 +16,7 @@ Der er to metoder:
 3. Under punktet ***Identity*** skal du vælge ***Import...***  
 ![ssh03.png][ssh03]
 4. Peg på den fil, som du har fået udleveret  
-5. Tryk på ***Enter*** for at forbinde  
+5. Tryk på ***[Enter]*** for at forbinde  
 ![ssh04.png][ssh04]
 
 

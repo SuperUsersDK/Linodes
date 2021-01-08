@@ -11,6 +11,13 @@ Der er to metoder:
 
 1. Installerer en udvidelse til Google Chrome https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo  
 ![ssh01.png][ssh01]
+2. Angiv det maskinenavn og den bruger, som du har fået udleveret  
+![ssh02.png][ssh02]
+3. Under punktet ***Identify*** skal du vælge ***Import*** 
+![ssh03.png][ssh03]
+4. Peg på den fil, som du har fået udleveret
+5. Tryk på ***Enter*** for at forbinde
+![ssh04.png][ssh04]
 
 
 ## Metode 2
@@ -57,6 +64,9 @@ Den vil ikke fremkomme mere.
 [putty08]: figures/putty08.png 
 [putty09]: figures/putty09.png 
 [ssh01]: figures/secure_shell_app01.png 
+[ssh02]: figures/secure_shell_app02.png 
+[ssh03]: figures/secure_shell_app03.png 
+[ssh04]: figures/secure_shell_app04.png 
 
 
 

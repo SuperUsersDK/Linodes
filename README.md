@@ -9,7 +9,9 @@ Der er to metoder:
 
 ## Metode 1
 
-1. Installere 
+1. Installerer en udvidelse til Google Chrome https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo  
+![ssh01.png][ssh01]
+
 
 ## Metode 2
 

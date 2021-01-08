@@ -15,18 +15,19 @@ Der er to metoder:
 
 ## Metode 2
 
-1. Download og installere putty fra: https://putty.org/
-2. Start putty
-3. Skriv det maskinenavn som du har fået udleveret under ***Host Name (or IP address)***  
+1. Gå ind på siden: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+2. Download og kør 64-bit MSI (‘Windows Installer’) versionen
+3. Start putty
+4. Skriv det maskinenavn som du har fået udleveret under ***Host Name (or IP address)***  
 ![putty01.png][putty01]  
 
-4. Under menupunktet ***SSH*** skal du åbne ***Auth***.  
+5. Under menupunktet ***SSH*** skal du åbne ***Auth***.  
 ![putty02.png][putty02]
 
-5. Tryk på ***Browse*** knappen og peg på den fil, som du har fået udleveret.  
+6. Tryk på ***Browse*** knappen og peg på den fil, som du har fået udleveret.  
 ![putty03.png][putty03]
 
-6. Under menupunktet ***Connection*** skal du åbne ***Data*** og tilføje ***user*** til ***Auto-login username***,  
+7. Under menupunktet ***Connection*** skal du åbne ***Data*** og tilføje ***user*** til ***Auto-login username***,  
 så slipper du for at angive brugernavnet, når du logger ind.  
 ![putty04.png][putty04]
 

@@ -1,7 +1,7 @@
 ### Linode - Guide til kursister
 
 Denne guide beskriver hvordan man forbinder til de virtuelle
-Linux maskiner, som SuperUsers stiller til rådighed til dig som kursist hos os.
+Linux maskiner hos [Linode](https://linode.com), som SuperUsers stiller til rådighed til dig som kursist hos os.
 
 Der er to metoder:
 1. [En udvidelse til Google Chrome browseren](#metode-1)
